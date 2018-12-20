@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This App is a memory game app which user must click on all of the images to win. If an image is clicked twice, the user will lose. 
+
+Try the app here: https://fathomless-cove-36661.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
