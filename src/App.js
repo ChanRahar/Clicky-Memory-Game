@@ -12,12 +12,12 @@ class App extends Component {
   state = {
     friends,
     score: 0,
-    highscore: 0,
+    highscore: 0
   }
 
   gameReset = () => {
     this.state.friends.forEach(friend => {
-      friend.count = 0;
+      friend.click = false;
     });
     this.setState({ score: 0 });
     return true;
@@ -50,12 +50,12 @@ class App extends Component {
   clickCount = id => {
     this.state.friends.find((character, i) => {
       if (character.id === id) {
-        if (friends[i].count === 0) {
-          friends[i].count = friends[i].count + 1;
+        if (!friends[i].click) {
+          friends[i].click= true;
           this.setState({ score: this.state.score + 1 }, function () {
             console.log(this.state.score);
           });
-          this.state.friends.sort(() => .5 - Math.random())
+          this.state.friends.sort(() => .5- Math.random())
           return true;
         } else {
           this.gameOver();
