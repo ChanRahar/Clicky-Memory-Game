@@ -2,73 +2,61 @@
   {
     "id": 1,
     "name": "Light",
-    "image": "https://vignette.wikia.nocookie.net/code-testing/images/e/e6/Light_Yagami.png/revision/latest?cb=20130512202523",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/code-testing/images/e/e6/Light_Yagami.png/revision/latest?cb=20130512202523"
   },
   {
     "id": 2,
     "name": "Ryuzaki",
-    "image": "https://vignette.wikia.nocookie.net/vsdebating/images/f/fe/L.png/revision/latest?cb=20170515133123",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/vsdebating/images/f/fe/L.png/revision/latest?cb=20170515133123"
   },
   {
     "id": 3,
     "name": "Rimuru",
-    "image": "https://vignette.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/3/34/Rimuru_Slime_Anime.png/revision/latest?cb=20180922214304",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/tensei-shitara-slime-datta-ken/images/3/34/Rimuru_Slime_Anime.png/revision/latest?cb=20180922214304"
   },
   {
     "id": 4,
     "name": "Momonga",
-    "image": "https://vignette.wikia.nocookie.net/overlordmaruyama/images/5/52/Ainz_Anime_New.png/revision/latest?cb=20180908023943",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/overlordmaruyama/images/5/52/Ainz_Anime_New.png/revision/latest?cb=20180908023943"
   },
   {
     "id": 5,
     "name": "Naruto",
-    "image": "https://i.imgur.com/SQSrdm1.jpg",
-    "count": 0
+    "image": "https://i.imgur.com/SQSrdm1.jpg"
   },
   {
     "id": 6,
     "name": "Ichigo",
-    "image": "https://www.pngarts.com/files/2/Ichigo-Kurosaki-PNG-Image-Background.png",
-    "count": 0
+    "image": "https://www.pngarts.com/files/2/Ichigo-Kurosaki-PNG-Image-Background.png"
   },
   {
     "id": 7,
     "name": "Goblin Slayer",
-    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/e/e7/Goblin_Slayer.png/revision/latest?cb=20181012015722",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/e/e7/Goblin_Slayer.png/revision/latest?cb=20181012015722"
   },
   {
     "id": 8,
     "name": "Deku",
-    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/7/73/Izuku_Midoriya_One%27s_Justice_Design.png/revision/latest?cb=20171205001905",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/7/73/Izuku_Midoriya_One%27s_Justice_Design.png/revision/latest?cb=20171205001905"
   },
   {
     "id": 9,
     "name": "All Might",
-    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/5/55/All_Might_Hero_Form_Full_Body.png/revision/latest?cb=20160116011411",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/bokunoheroacademia/images/5/55/All_Might_Hero_Form_Full_Body.png/revision/latest?cb=20160116011411"
   },
   {
     "id": 10,
     "name": "Lelouch",
-    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/78/Zero_code_geass_without_fire_by_xxvampire_loverxx-d377d0m.png/revision/latest?cb=20160130181812",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/78/Zero_code_geass_without_fire_by_xxvampire_loverxx-d377d0m.png/revision/latest?cb=20160130181812"
   },
   {
     "id": 11,
     "name": "Shinji",
-    "image": "https://vignette.wikia.nocookie.net/detectivconan/images/a/ae/Img_conan.png/revision/latest?cb=20160430141904",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/detectivconan/images/a/ae/Img_conan.png/revision/latest?cb=20160430141904"
   },
   {
     "id": 12,
     "name": "Hinata",
-    "image": "https://vignette.wikia.nocookie.net/haikyuu/images/a/af/Shoyo_Hinata_Cover.png/revision/latest?cb=20140712021347",
-    "count": 0
+    "image": "https://vignette.wikia.nocookie.net/haikyuu/images/a/af/Shoyo_Hinata_Cover.png/revision/latest?cb=20140712021347"
   }
 ]
